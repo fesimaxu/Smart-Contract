@@ -1,5 +1,6 @@
 # Smart-Contract
 A Repo of Smart Contracts developed with Solidity Programming on remix IDE and deployed on Ethereum Rinkeby Testnet. <br>
+Using MetaMask and verified <br>
 A ERC20 Smart Contracts of igweToken (ITN).  <br>
 Contracts address of igweToken ERC20 : 0x62fe7a46e2c20668feb3de616cbf91a397723327. <br>
 ipfs { <br>
